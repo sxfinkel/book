@@ -27,5 +27,5 @@ rake routes
   -bootstrap-sass
   
   
-  Rails c 
-  {% endcodeblock %}
+migration file
+rails generate migration add_user_id_to_books user_id:integer
